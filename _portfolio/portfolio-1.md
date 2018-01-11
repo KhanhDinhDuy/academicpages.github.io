@@ -1,6 +1,6 @@
 ---
 title: "CISDeM Command-and-Control Centre (CIS-CON)"
-excerpt: "This is the track in CISDeM project that I am working on<br/><img src='/images/Cyber-Security.png'>"
+excerpt: "This is the track in CISDeM project that I am working on<br/><img src='/images/Cyber-Security.jpg'>"
 collection: portfolio
 ---
 
