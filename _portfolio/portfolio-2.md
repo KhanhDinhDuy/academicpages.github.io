@@ -1,6 +1,6 @@
 ---
 title: "Cross-functional Information System for Decision Making (CISDeM)"
-excerpt: "[I a member of CISDeM Project under Prof. David](https://temasek-labs.sutd.edu.sg/projects/cross-functional-information-system-for-decision-making-cisdem/) <br/><img src='/images/cisdem.jpg'>"
+excerpt: "[I have been a researcher of CISDeM Project under Prof. David since April, 2017 ](https://temasek-labs.sutd.edu.sg/projects/cross-functional-information-system-for-decision-making-cisdem/) <br/><img src='/images/cisdem.jpg'>"
 collection: portfolio
 ---
 
