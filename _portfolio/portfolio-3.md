@@ -12,5 +12,6 @@ The first part of the thesis includes signal processing techniques in order to d
 
 The methods to extract the length and speed of vehicles will be presented in the second part of the thesis. Signals from microwave motion detectors, namely HB100, will be filtered and amplified before going to a microcontroller. The upper bound on the distance between a object and the sensor is 8(m) and vehicles can have the speed in the range from 5(km/h) to 40(km/h). The achieved results are over 80% of accuracy in comparison with the actual length of objects.
 
-[Download Bachelor's Thesis here](http://academicpages.github.io/files/khoaluan.pdf)
-[Download Bachelor's Thesis Defense Slides here](http://academicpages.github.io/files/example.pdf)
+[Download Bachelor's Thesis here.](http://academicpages.github.io/files/khoaluan.pdf)
+
+[Download Bachelor's Thesis Defense Slides here.](http://academicpages.github.io/files/example.pdf)
