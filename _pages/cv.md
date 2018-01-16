@@ -22,19 +22,19 @@ redirect_from:
 * <p style='text-align: justify;'><b>Intrusion Detection System</b>: Creating Bro policy scripts based on behavior-based and signature-based malware analysis to raise the alarm about abnormal activities and building the ElasticSearch, Logstash, Kibana (ELK) Stack to monitor windows system calls.</p>
 * <p style='text-align: justify;'><b>Malware Detection</b>: Applying network-based machine learning models in order to detect malware and host-based Recurrent Neural Networks (RNNs) to identify ransomware as soon as it runs on a computer system with real experiments in our testbed.</p>
 * <p style='text-align: justify;'><b>Software-Defined Networking (SDN)</b>: SDN-based solutions for moving target defense network protection.</p>
-* <p style='text-align: justify;'><b>Computer Science Courses</b>: CS109 Data Science, 6.006 Introduction to Algorithms, Statistics 110: Probability, Machine Learning by Stanford University on Coursera, Big Data 101, Statistics 101, Deep Learning 101, Deep Learning with Tensor Flow, Spark Fundamentals I&II.</p>
+* <p style='text-align: justify;'><b>Computer Science Courses</b>: CS109 Data Science, 6.006 Introduction to Algorithms, Statistics 110: Probability, Machine Learning by Stanford University on Coursera, Big Data 101, Statistics 101, Deep Learning 101, Deep Learning with Tensor Flow, Spark Fundamentals I&II, BerkeleyX: CS105x, BerkeleyX: CS110x, BerkeleyX: CS120x.</p>
 
 ### Samsung Vietnam Mobile R&D Center (SVMC) _(June. 2014 - April. 2017)_
 #### SYSTEM SOFTWARE ENGINEER & THE POWER OPTIMIZATION TEAM LEADER
 * <p style='text-align: justify;'><b>Linux Kernel</b>: Developing Linux device drivers with the aim of optimizing the power consumption of components of a system on a chip (SoC), such as CPU, GPU, and DDR, as well as ensuring the performance of mobile phones and wearable products.</p>
-* <p style='text-align: justify;'><b>Tizen Framework</b>: Working on RPM, Red Hat Package Manager, packages that belong to the OEM Adaptation Layer(OAL) interms of advanced power management solutions.</p>
+* <p style='text-align: justify;'><b>Tizen Framework</b>: Working on RPM, Red Hat Package Manager, packages that belong to the OEM Adaptation Layer (OAL) interms of advanced power management solutions.</p>
 * <p style='text-align: justify;'><b>RPM applications</b>: Building auxiliary software and automated testing tools in order to support testers, the Quality Assurance (QA) team, and third parties.</p>
 
 ### Internship at the Wireless Communication Laboratory _(Jan. 2013 - June 2014)_
 #### ADVISER: ASSOC.PROF. DR. NGUYEN VAN DUC
 * <p style='text-align: justify;'>Intelligent Transportation System <b>(ITS)</b>: Detecting, measuring and classifying different types of cars using various sensors (ultrasonic sensors, microwave motion sensors, infrared sensors, inductive loops, etc.) combined with microcontrollers.</p>
 * <p style='text-align: justify;'>Wireless Sensor Ad-hoc Network <b>(WSAN)</b>: Evaluating the energy consumption of Wireless Sensor Ad-hoc Networks with the use of different solutions for the Mobile Object Tracking problem, like the Kalman filter or the Particle filter, using NS2.</p>
-* <p style='text-align: justify;'></b>Speech-Like Symbol Design</b> for Data Transmission through **GSM Voice Channel**: Encoding digital data into Speech-Like (SL) symbols using MATLAB to transmit through the Global System for Mobile communications (GSM) voice channel.</p>
+* <p style='text-align: justify;'><b>Speech-Like Symbol Design</b> for Data Transmission through <b>GSM Voice Channel</b>: Encoding digital data into Speech-Like (SL) symbols using MATLAB to transmit through the Global System for Mobile communications (GSM) voice channel.</p>
   
 ## Certificates
 * 2017 **Big Data 101**, Cognitive Class Certificate of Completion. ([BD0101EN](https://courses.cognitiveclass.ai/certificates/user/693399/course/course-v1:BigDataUniversity+BD0101EN+2016_T2))
